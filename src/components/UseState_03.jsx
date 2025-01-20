@@ -36,7 +36,7 @@ export default () => {
             <button onClick={aumentar2}>+</button>
 
             <hr />
-            <p>O resultado de {valor1} x {valor2} = {valor1 * valor2} </p>
+            <p>O resultado de {valor1} x {valor2} = {valor1 * valor2}</p>
         </>
     );
 };
